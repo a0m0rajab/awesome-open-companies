@@ -16,6 +16,7 @@ Opennes level is a rate for the company openness, where we give them an extra po
 - Users: Is there enough data and single source of truth about the numbers of the users? 
 - Management: Is their mangament and hiring style clear? how they work?
 - Open source: How do they support open source is there content about it?
+- Investors: The investors list that supported the company.
 - Other: For other information that we got from the companies.
 
 ## The list: 
@@ -25,3 +26,6 @@ Opennes level is a rate for the company openness, where we give them an extra po
 | OpenSauced |      |         |            |       |
 | Buffer     |      |         |            |       |
 | CAl.com    |      |         |            |       |
+|jitsu      |      |         |            |       |
+| Ivy |      |         |            |       |
+
