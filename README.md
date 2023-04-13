@@ -17,6 +17,7 @@ Opennes level is a rate for the company openness, where we give them an extra po
 - Management: Is their mangament and hiring style clear? how they work?
 - Open source: How do they support open source is there content about it?
 - Investors: The investors list that supported the company.
+- Entry: what do they provide for the entry level programmer? 
 - Other: For other information that we got from the companies.
 
 ## The list: 
